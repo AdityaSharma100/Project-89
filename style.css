@@ -1,0 +1,44 @@
+body{ 
+background:url("https://i.postimg.cc/1XYRKdv7/29f0f6b9eb3c78a9d4b5e17a14cf3ab2.jpg");
+}
+h1 {
+color:white;
+font-size:90px;
+}
+h2 {
+color:white;
+font-size:50px;
+}
+button{
+  color:black;
+  font-size:30px;
+}
+.login:hover{
+  color:blue;
+  cursor:pointer;
+}
+#player_1{
+  border-radius:5px;
+  border-width:5px;
+ border-color:black;
+  font-size:20px;
+}
+#player_2{
+  border-radius:5px;
+  border-width:5px;
+ border-color:black;
+  font-size:20px;
+}
+h3 {
+color: black;
+font-size: 30px;
+}
+lable{
+color:black;
+font-size: 20px;
+}
+div {
+background-color: white;
+width:800px;
+border-radius: 10px;
+}
